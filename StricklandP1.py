@@ -1,8 +1,10 @@
 # Strickland
 # Programmer: Jameson Strickland
-# EMail: jstrickland4@cnm.edu
-# Purpose: provides user capability to calculate volume and surface area of a pyramid.
+# Purpose: provides capability to calculate volume and surface area of a pyramid.
 # Python version: 3.7.8
+
+#to be added: GUI shape selection, area (2D) or volume (3D) selection 
+
 
 # Length of the base:  a
 # Height of the pyramid:  h
